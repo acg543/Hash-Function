@@ -1,0 +1,15 @@
+C:\Users\greni\OneDrive\Desktop\Hashy\bin\Debug\net7.0\Hashy.exe
+C:\Users\greni\OneDrive\Desktop\Hashy\bin\Debug\net7.0\Hashy.deps.json
+C:\Users\greni\OneDrive\Desktop\Hashy\bin\Debug\net7.0\Hashy.runtimeconfig.json
+C:\Users\greni\OneDrive\Desktop\Hashy\bin\Debug\net7.0\Hashy.dll
+C:\Users\greni\OneDrive\Desktop\Hashy\bin\Debug\net7.0\Hashy.pdb
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\Hashy.csproj.AssemblyReference.cache
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\Hashy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\Hashy.AssemblyInfoInputs.cache
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\Hashy.AssemblyInfo.cs
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\Hashy.csproj.CoreCompileInputs.cache
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\Hashy.dll
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\refint\Hashy.dll
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\Hashy.pdb
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\Hashy.genruntimeconfig.cache
+C:\Users\greni\OneDrive\Desktop\Hashy\obj\Debug\net7.0\ref\Hashy.dll
